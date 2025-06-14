@@ -23,4 +23,4 @@
 ---
 
 ## 🌐 Connect With Me
-[💼 LinkedIn](https://www.linkedin.com/in/deepanshu0601/) 
+💼 [LinkedIn](https://www.linkedin.com/in/deepanshu0601/) 
