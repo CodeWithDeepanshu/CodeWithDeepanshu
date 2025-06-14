@@ -1,8 +1,26 @@
-- 👋 Hi, I’m @CodeWithDeepanshu
-- ✨ My name is Deepanshu Jain
-- 🌱 I’m currently learning Programming and Cyber Security
+# 👋 Hey, I'm Deepanshu Jain
 
-<!---
-CodeWithDeepanshu/CodeWithDeepanshu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 BCA Student @ CHRIST University (Central Campus), Bengalore
+🔐 Cybersecurity & Ethical Hacking Enthusiast  
+💻 Python | C/C++ | Java | HTML | CSS | JavaScript | Linux 
+🛠️ Tools: VirtualBox | VMware | GitHub | Figma | Canva | Adobe Premiere Pro | Adobe Audition
+
+---
+
+## 🔍 What I'm Working On
+- 🛡️ Basic Penetration Testing Labs
+- 🧩 CTF Writeups
+- 🐧 Linux System Hardening Scripts
+
+---
+
+## 📁 Repositories
+- 🔎 basic-port-scanner
+- 🧠 ctf-writeups
+- 🔐 linux-security-tools
+- 📓 cybersecurity-notes
+
+---
+
+## 🌐 Connect With Me
+[💼 LinkedIn](https://www.linkedin.com/in/deepanshu0601/) 
