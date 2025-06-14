@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CodeWithDeepanshu
 - ✨ My name is Deepanshu Jain
-- 🌱 I’m currently learning Programming
+- 🌱 I’m currently learning Programming and Cyber Security
 
 <!---
 CodeWithDeepanshu/CodeWithDeepanshu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
