@@ -14,13 +14,5 @@
 
 ---
 
-## 📁 Repositories
-- 🔎 basic-port-scanner
-- 🧠 ctf-writeups
-- 🔐 linux-security-tools
-- 📓 cybersecurity-notes
-
----
-
 ## 🌐 Connect With Me
 💼 [LinkedIn](https://www.linkedin.com/in/deepanshu0601/) 
