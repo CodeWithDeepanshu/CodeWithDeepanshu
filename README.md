@@ -7,7 +7,7 @@
 
 ---
 
-## 🔍 What I'm Working On
+## 🔍 What I'm Currently Learning
 - 🛡️ Basic Penetration Testing Labs
 - 🧩 CTF Writeups
 - 🐧 Linux System Hardening Scripts
